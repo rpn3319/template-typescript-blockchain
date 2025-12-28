@@ -12,7 +12,7 @@ A TypeScript template for blockchain development projects.
 ## Quick Start
 
 ```bash
-npx degit <your-username>/blockchain-typescript-template my-project
+npx degit rpn3319/template-typescript-blockchain my-project
 cd my-project
 npm install
 cp .env.example .env
